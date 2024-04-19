@@ -1,4 +1,5 @@
 ﻿using Core.Entities;
+using Core.Interfaces;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,18 +11,19 @@ namespace Skinet.API.Controllers;
 [ApiController]
 public class ProductsController : ControllerBase
 {
-    private readonly StoreContext _context;
-    
-    public ProductsController(StoreContext context)
+    private readonly IProductRepository _repository;
+
+
+    public ProductsController(IProductRepository repository)
     {
-        _context = context;
+        _repository = repository;
     }
 
     [HttpGet]
     public async Task<ActionResult<List<Product>>> GetProducts()
     {
-        var products = await _context.Products.ToListAsync();
-        return products;
+        var products = await _repository.GetProductsAsync();
+        return Ok(products);
     }
     
     
@@ -32,14 +34,29 @@ public class ProductsController : ControllerBase
     {
         if (id != null)
         {
-            var product = await _context.Products.FirstAsync(x => x.Id == id);
-            return product;  
+            return await _repository.GetProductByIdAsync(id); 
         }
 
         return NotFound();
     }
 
-    [HttpPut]
+    [HttpGet]
+    [Route("brands")]
+    public async Task<ActionResult<IReadOnlyList<ProductBrand>>> GetProductBrands()
+    {
+        return Ok(await _repository.GetProductBrandsAsync());
+    }
+
+    [HttpGet]
+    [Route("types")]
+    public async Task<ActionResult<IReadOnlyList<ProductType>>> GetProductTypes()
+    {
+        return Ok(await _repository.GetProductTypesAsync());
+    }
+
+
+
+    /*[HttpPut]
     public string UpdateProduct(int id)
     {
         // Add Put method
@@ -61,5 +78,5 @@ public class ProductsController : ControllerBase
     {
         // insert POST method
         return null;
-    }
+    }*/
 }
