@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\extension\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:extension\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:05:27.52Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -47,6 +72,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Extension\\ApplicationServicesExtensions.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Extension\\ApplicationServicesExtensions.cs*",
+              "RelativeToolTip": "Extension\\ApplicationServicesExtensions.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:24:08.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:22:25.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Errors\\ApiValidationErrorResponse.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "Errors\\ApiValidationErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:13:09.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "Controllers\\BuggyController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:17:34.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:14:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductUrlResolver.cs",
               "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Helpers\\ProductUrlResolver.cs",
               "RelativeDocumentMoniker": "Helpers\\ProductUrlResolver.cs",
@@ -59,52 +149,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-20T15:29:57.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Helpers\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "Helpers\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Helpers\\MappingProfiles.cs",
-              "RelativeToolTip": "Helpers\\MappingProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:11:04.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:05:27.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T17:52:13.391Z",
               "EditorCaption": ""
