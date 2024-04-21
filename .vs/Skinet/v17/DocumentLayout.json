@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\tmcgr\\Projects\\Skinet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\extension\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:extension\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\extension\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:extension\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7FBAD08-72B8-479C-98CA-6E888AE69D02}|..\\Core\\Core.csproj|c:\\users\\tmcgr\\projects\\core\\specifications\\productwithfiltersforcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FBAD08-72B8-479C-98CA-6E888AE69D02}|..\\Core\\Core.csproj|c:\\users\\tmcgr\\projects\\core\\specifications\\productswithtypesandbrandsspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FBAD08-72B8-479C-98CA-6E888AE69D02}|..\\Core\\Core.csproj|c:\\users\\tmcgr\\projects\\core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|c:\\users\\tmcgr\\projects\\skinet\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6964DB72-B1B1-483F-98A6-77E27AD90AB4}|Skinet.API.csproj|solutionrelative:helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F79ED8-A79E-473D-929B-C7179EA9455C}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\tmcgr\\projects\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:05:27.52Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -71,94 +54,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApplicationServicesExtensions.cs",
               "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Extension\\ApplicationServicesExtensions.cs",
               "RelativeDocumentMoniker": "Extension\\ApplicationServicesExtensions.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Extension\\ApplicationServicesExtensions.cs*",
-              "RelativeToolTip": "Extension\\ApplicationServicesExtensions.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCYAAABGAAAA",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Extension\\ApplicationServicesExtensions.cs",
+              "RelativeToolTip": "Extension\\ApplicationServicesExtensions.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAywDUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T19:24:08.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorController.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ErrorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ErrorController.cs",
-              "RelativeToolTip": "Controllers\\ErrorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T18:22:25.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiValidationErrorResponse.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Errors\\ApiValidationErrorResponse.cs",
-              "RelativeDocumentMoniker": "Errors\\ApiValidationErrorResponse.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Errors\\ApiValidationErrorResponse.cs",
-              "RelativeToolTip": "Errors\\ApiValidationErrorResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T18:13:09.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BuggyController.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BuggyController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BuggyController.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BuggyController.cs",
-              "RelativeToolTip": "Controllers\\BuggyController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T16:17:34.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseApiController.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BaseApiController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\BaseApiController.cs",
-              "RelativeToolTip": "Controllers\\BaseApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T16:14:44.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductUrlResolver.cs",
-              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Helpers\\ProductUrlResolver.cs",
-              "RelativeDocumentMoniker": "Helpers\\ProductUrlResolver.cs",
-              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Helpers\\ProductUrlResolver.cs",
-              "RelativeToolTip": "Helpers\\ProductUrlResolver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:31:02.809Z",
+              "WhenOpened": "2024-04-21T14:16:38.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductWithFiltersForCountSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "RelativeToolTip": "..\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:13:59.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "Helpers\\Pagination.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "Helpers\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:09:12.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Specifications\\ProductSpecParams.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeToolTip": "..\\Core\\Specifications\\ProductSpecParams.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvx4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:56:55.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsWithTypesAndBrandsSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "RelativeToolTip": "..\\Core\\Specifications\\ProductsWithTypesAndBrandsSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:49:16.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:43:15.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:05:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\tmcgr\\Projects\\Skinet\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:52:13.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T17:52:13.391Z"
             }
           ]
         }

@@ -2,11 +2,10 @@
 using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
-using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Skinet.API.Dtos;
 using Skinet.API.Errors;
+using Skinet.API.Helpers;
 
 
 namespace Skinet.API.Controllers;
@@ -29,13 +28,19 @@ public class ProductsController : BaseApiController
     }
 
     [HttpGet]
-    public async Task<ActionResult<IReadOnlyList<ProductToReturnDto>>> GetProducts()
+    public async Task<ActionResult<Pagination<ProductToReturnDto>>> GetProducts([FromQuery] ProductSpecParams productParams)
     {
-        var spec = new ProductsWithTypesAndBrandsSpecification();
+        var spec = new ProductsWithTypesAndBrandsSpecification(productParams);
+
+        var countSpec = new ProductWithFiltersForCountSpecification(productParams);
+
+        var totalItems = await _productsRepo.CountAsync(countSpec);
 
         var products = await _productsRepo.ListAsync(spec);
 
-        return Ok(_mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDto>>(products));
+        var data = _mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDto>>(products);
+
+        return Ok(new Pagination<ProductToReturnDto>(productParams.PageIndex, productParams.PageSize, totalItems, data));
     }
     
     
@@ -52,21 +57,20 @@ public class ProductsController : BaseApiController
             return NotFound(new ApiResponse(404));
 
         return _mapper.Map<Product, ProductToReturnDto>(product);
-    
-
-        
     }
 
 
     [HttpGet]
     [Route("brands")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
     public async Task<ActionResult<IReadOnlyList<ProductBrand>>> GetProductBrands()
     {
         return Ok(await _productBrandRepo.ListAllAsync());
     }
 
-    [HttpGet]
-    [Route("types")]
+
+    [HttpGet("types")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
     public async Task<ActionResult<IReadOnlyList<ProductType>>> GetProductTypes()
     {
         return Ok(await _productTypeRepo.ListAllAsync());

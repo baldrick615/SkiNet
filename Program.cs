@@ -1,6 +1,7 @@
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Skinet.API.Extension;
+using Skinet.API.Middleware;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,24 @@ builder.Services.AddControllers();
 builder.Services.AddApplicationServices(builder.Configuration);
 
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleware>();
+app.UseStatusCodePagesWithReExecute("/errors/{0}");
+
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Skinet API v1");
+});
+
+app.UseStaticFiles();
+
+
+app.UseCors("CorsPolicy");
+
+
+
+app.UseAuthorization();
 
 app.MapControllers();
 
